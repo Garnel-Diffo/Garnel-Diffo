@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](assets/header-banner.svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ing.+Garnel+Diffo&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI+%26+Machine+Learning+Engineer+%7C+Full-Stack+%26+Mobile+Developer&descAlignY=55&descSize=20&color=0:0F2027,50:2C5364,100:00C9A7)
 
 </div>
 
 <p align="center">
   <a href="https://github.com/Garnel-Diffo">
-    <img src="assets/typing-banner.svg" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+and+ML+Engineer;Computer+Vision,+Recommender+Systems;Full-Stack+Developer+-+React,+Next.js,+Django;Mobile+Developer+-+Flutter,+React+Native;Building+Assistive+and+Accessibility+Tech;Open+Source+Contributor+from+Cameroon&font=Fira+Code&center=true&width=750&height=50&color=7F5AF0&vCenter=true&size=21&pause=1200" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -141,7 +141,7 @@ I'm always open to interesting AI/ML and full-stack projects, freelance work, an
 
 <div align="center">
 
-![Footer](assets/footer-banner.svg)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=70&color=0:00C9A7,50:2C5364,100:0F2027)
 
 <sub>From <a href="https://github.com/Garnel-Diffo">Garnel Diffo</a>, with rigor and a good cup of coffee ☕</sub>
 
