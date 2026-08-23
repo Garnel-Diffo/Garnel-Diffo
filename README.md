@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ing.+Garnel+Diffo&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI+%26+Machine+Learning+Engineer+%7C+Full-Stack+%26+Mobile+Developer&descAlignY=55&descSize=20&color=0:0F2027,50:2C5364,100:00C9A7)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ing.+Garnel+Diffo&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI+and+Machine+Learning+Engineer+%7C+Full-Stack+and+Mobile+Developer&descAlignY=55&descSize=20&color=0:0F2027,50:2C5364,100:00C9A7)
 
 </div>
 
