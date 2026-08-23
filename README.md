@@ -47,34 +47,30 @@ I'm an **AI/ML & Full-Stack Engineer** based in Yaoundé, Cameroon 🇨🇲, foc
 <h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Garnel-Diffo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://gh-readme-stats.vercel.app/api?username=Garnel-Diffo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Garnel-Diffo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garnel-Diffo&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" alt="Top Languages"/>
+  <img width="40%" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Garnel-Diffo&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Garnel-Diffo&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
 </div>
 
-<h2 align="center">Contribution Snake</h2>
+<h2 align="center">Contribution Skyline</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Garnel-Diffo/Garnel-Diffo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Garnel-Diffo/Garnel-Diffo/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Garnel-Diffo/Garnel-Diffo/output/github-contribution-grid-snake.svg" width="98%"/>
-  </picture>
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Garnel-Diffo/Garnel-Diffo/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%"/>
   <br/>
-  <sub>Animates automatically each day — appears after the first Action run (see setup note below)</sub>
+  <sub>Updates automatically every day — appears after the first Action run (see setup note below)</sub>
 </div>
 
 <h2 align="center">Achievements</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Garnel-Diffo&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Garnel-Diffo&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 <h2 align="center">Tech Stack & Tools</h2>
@@ -114,22 +110,22 @@ I'm an **AI/ML & Full-Stack Engineer** based in Yaoundé, Cameroon 🇨🇲, foc
 
 <div align="center">
   <a href="https://github.com/Garnel-Diffo/Visual-Search-Engine">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=Visual-Search-Engine&theme=tokyonight&hide_border=true" alt="Visual Search Engine"/>
+    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=Visual-Search-Engine&theme=tokyonight&hide_border=true" alt="Visual Search Engine"/>
   </a>
   <a href="https://github.com/Garnel-Diffo/Recommandations-System-LightGCN">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=Recommandations-System-LightGCN&theme=tokyonight&hide_border=true" alt="Recommender System LightGCN"/>
+    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=Recommandations-System-LightGCN&theme=tokyonight&hide_border=true" alt="Recommender System LightGCN"/>
   </a>
   <a href="https://github.com/Garnel-Diffo/text-extraction-on-license-plates">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=text-extraction-on-license-plates&theme=tokyonight&hide_border=true" alt="License Plate Text Extraction"/>
+    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=text-extraction-on-license-plates&theme=tokyonight&hide_border=true" alt="License Plate Text Extraction"/>
   </a>
   <a href="https://github.com/Garnel-Diffo/Real-Time-Facial-Recognition-and-Automatic-attendance-list">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=Real-Time-Facial-Recognition-and-Automatic-attendance-list&theme=tokyonight&hide_border=true" alt="Facial Recognition Attendance"/>
+    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=Real-Time-Facial-Recognition-and-Automatic-attendance-list&theme=tokyonight&hide_border=true" alt="Facial Recognition Attendance"/>
   </a>
   <a href="https://github.com/Garnel-Diffo/edusmart">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=edusmart&theme=tokyonight&hide_border=true" alt="EduSmart"/>
+    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=edusmart&theme=tokyonight&hide_border=true" alt="EduSmart"/>
   </a>
   <a href="https://github.com/Garnel-Diffo/Moteur-Inference-API">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=Moteur-Inference-API&theme=tokyonight&hide_border=true" alt="Inference Engine API"/>
+    <img width="45%" src="https://gh-readme-stats.vercel.app/api/pin/?username=Garnel-Diffo&repo=Moteur-Inference-API&theme=tokyonight&hide_border=true" alt="Inference Engine API"/>
   </a>
 </div>
 
